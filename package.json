@@ -1,0 +1,22 @@
+{
+  "name": "webclass",
+  "version": "1.0.0",
+  "description": "This is the class work for MCSD51",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagu360/WebClass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagu360/WebClass/issues"
+  },
+  "homepage": "https://github.com/wagu360/WebClass#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
